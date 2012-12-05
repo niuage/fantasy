@@ -1,0 +1,15 @@
+.DS_Store
+.bundle
+db/*.sqlite3
+log/
+tmp/
+.sass-cache/
+solr/data
+nbproject/
+.rvmrc
+vendor/bundle/
+dump.rdb
+nohup.out
+resque.pid
+public/assets
+*.ics
